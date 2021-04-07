@@ -1,0 +1,76 @@
+{% extends 'base.html' %}
+{% load staticfiles %}
+{% block title %}list{% endblock title %}
+{% block topfiles %}
+{% endblock topfiles %}
+{% block body %}
+
+    <div class="navbar_con">
+        <div class="navbar clearfix">
+            <div class="subnav_con fl">
+                <h1>All</h1>
+
+            </div>
+            <ul class="navlist fl">
+                <li><a href="/">Home</a></li>
+                <li class="interval">|</li>
+
+            </ul>
+        </div>
+    </div>
+
+    <div class="main_wrap clearfix">
+        <div class="l_wrap fl clearfix">
+            <div class="new_product">
+                <h3>New Arrivals</h3>
+                <ul>
+                    {% for product in products_new %}
+                    <li>
+                        <a href="{% url 'products:detail' products_id=product.id %}"><img src="/media/{{product.image}}"></a>
+                        <h4><a href="{% url 'products:detail' products_id=product.id %}">{{ product.name }}</a></h4>
+                        <div class="prize">${{ product.price }}</div>
+                    </li>
+                    {% endfor %}
+                </ul>
+            </div>
+        </div>
+
+        <div class="r_wrap fr clearfix">
+            <div class="sort_bar">
+                <a href="/list/{{ type_id }}/1/" {% if sort == 'default' %}class="active"{% endif %}>default</a>
+                <a href="/list/{{ type_id }}/1/?sort=price" {% if sort == 'price' %}class="active"{% endif %}>price</a>
+                <a href="/list/{{ type_id }}/1/?sort=hot" {% if sort == 'hot' %}class="active"{% endif %}>hot</a>
+            </div>
+
+            <ul class="product_type_list clearfix">
+                {% for product in products_li %}
+                    <li>
+                        <a href="{% url 'products:detail' products_id=product.id %}"><img src="/media/{{product.image}}"></a>
+                        <h4><a href="{% url 'products:detail' products_id=product.id %}">{{ products.name }}</a></h4>
+                        <div class="operate">
+                            <span class="prize">${{ product.price }}</span>
+                            <span class="unit">{{ product.unit }}</span>
+                            <a href="#" class="add_products" title="add cart"></a>
+                        </div>
+                    </li>
+                {% endfor %}
+            </ul>
+
+            <div class="pagenation">
+                {% if products_li.has_previous %}
+                    <a href="/list/{{ type_id }}/{{ products_li.previous_page_number }}/?sort={{ sort }}">previous</a>
+                {% endif %}
+                {% for pindex in pages %}
+                    {% if pindex == products_li.number %}
+                        <a href="/list/{{ type_id }}/{{ pindex }}/?sort={{ sort }}" class="active">{{ pindex }}</a>
+                    {% else %}
+                        <a href="/list/{{ type_id }}/{{ pindex }}/?sort={{ sort }}">{{ pindex }}</a>
+                    {% endif %}
+                {% endfor %}
+                {% if products_li.has_next %}
+                    <a href="/list/{{ type_id }}/{{ products_li.next_page_number }}/?sort={{ sort }}">next</a>
+                {% endif %}
+            </div>
+        </div>
+    </div>
+{% endblock body %}

@@ -1,0 +1,54 @@
+{% extends 'base.html' %}
+{% load staticfiles %}
+{% block title %}address{% endblock title %}
+{% block topfiles %}
+{% endblock topfiles %}
+{% block body %}
+
+    <div class="main_con clearfix">
+        <div class="left_menu_con clearfix">
+            <h3>user center</h3>
+            <ul>
+                <li><a href="{% url 'user:user' %}">· personal</a></li>
+                <li><a href="{% url 'user:order' %}">· all orders</a></li>
+                <li><a href="{% url 'user:address' %}" class="active">· address</a></li>
+            </ul>
+        </div>
+        <div class="right_content clearfix">
+                <h3 class="common_title2">address</h3>
+                <div class="site_con">
+                    <dl>
+                        <dt>Current address：</dt>
+                        {% if addr %}
+                            <dd>{{ addr.recipient_addr }} （{{ addr.recipient_name }} receive） {{ addr.recipient_phone }}</dd>
+                        {% else %}
+                            <dd>无</dd>
+                        {% endif %}
+                    </dl>
+                </div>
+                <h3 class="common_title2">edit address</h3>
+                <div class="site_con">
+                    <form method="post" action="/user/address/">
+                        {% csrf_token %}
+                        <div class="form_group">
+                            <label>receive：</label>
+                            <input type="text" name="username">
+                        </div>
+                        <div class="form_group form_group2">
+                            <label>address：</label>
+                            <textarea class="site_area" name="addr"></textarea>
+                        </div>
+                        <div class="form_group">
+                            <label>zip code：</label>
+                            <input type="text" name="zip_code">
+                        </div>
+                        <div class="form_group">
+                            <label>phone：</label>
+                            <input type="text" name="phone">
+                        </div>
+                        <input type="submit" value="submit" class="info_submit">
+                    </form>
+                </div>
+        </div>
+    </div>
+{% endblock body %}
