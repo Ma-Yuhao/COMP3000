@@ -1,0 +1,9 @@
+
+OFFLINE = 0
+ONLINE = 1
+
+STATUS_CHOICE = {
+    ONLINE: 'ONLINE',
+    OFFLINE: 'OFFLINE'
+
+}
