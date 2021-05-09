@@ -15,7 +15,6 @@ class ProductsManager(models.Manager):
         else:
             order_by = ('-pk', )
 
-
         products_li = self.filter(type_id=type_id).order_by(*order_by)
 
 
