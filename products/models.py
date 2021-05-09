@@ -39,7 +39,7 @@ class Products(BaseModel):
     name = models.CharField(max_length=20)
     desc = models.CharField(max_length=128, verbose_name='describe')
     price = models.DecimalField(max_digits=10, decimal_places=2)
-    unit = models.CharField(max_length=20)
+    unit = models.CharField(max_length=20,blank=True,null=True)
     stock = models.IntegerField(default=0)
     sales = models.IntegerField(default=0)
     detail = HTMLField()
