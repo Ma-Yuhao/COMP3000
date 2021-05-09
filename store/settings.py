@@ -32,6 +32,7 @@ INSTALLED_APPS = [
     'haystack',
     'users.templatetags.filters',
 ]
+
 SIMPLEUI_HOME_TITLE = 'Sale Fish'
 SIMPLEUI_HOME_ICON = 'fa fa-user'
 SIMPLEUI_HOME_INFO = False
