@@ -27,7 +27,7 @@ INSTALLED_APPS = [
     'users',
     'products',
     'rest_framework',
-    'rest_framework.authtoken',
+    # 'rest_framework.authtoken',
     'order',
     'haystack',
     'users.templatetags.filters',
@@ -76,7 +76,7 @@ DATABASES = {
         'ENGINE': 'django.db.backends.mysql',
         'NAME': 'store',
         'USER': 'root',
-        'PASSWORD': '1234',
+        'PASSWORD': 'root',
         'HOST': '127.0.0.1',
         'PORT': 3306,
     }
