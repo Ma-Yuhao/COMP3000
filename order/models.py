@@ -18,11 +18,7 @@ class OrderInfo(BaseModel):
     }
 
     ORDER_STATUS_CHOICES = (
-        (1, "To be paid"),
-        (2, "To be delivered"),
-        (3, "To be received"),
-        (4, "To be evaluated"),
-        (5, "Completed"),
+        (1, "Completed"),
     )
 
     order_id = models.CharField(max_length=64, primary_key=True)

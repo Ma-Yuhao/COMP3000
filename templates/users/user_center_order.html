@@ -45,9 +45,9 @@
                             <td width="15%">{{ order.total_price }}$</td>
                             <td width="15%">{{ order.status | order_status}}</td>
                            {% if order.status == 1 %}
-                               <td width="15%"><a href="#" pay_method="{{ order.pay_method }}" order_id="{{ order.order_id }}" order_status="{{ order.status }}" class="oper_btn">Pay</a></td>
+                               <td width="15%"> {{ order.get_status_display }}</td>
                             {% else %}
-                                <td width="15%"> Paid</td>
+                                <td width="15%"> paid</td>
                             {% endif %}
                             <td width="15%"><a href="/order/deleteOrder?order_id={{ order.order_id }}"  class="oper_btn">delete</a></td>
 
