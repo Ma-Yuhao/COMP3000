@@ -54,15 +54,15 @@
                     <div class="user_error">input error</div>
                     <input type="password" id="pwd" class="pass_input" placeholder="enter password">
                     <div class="pwd_error">input error</div>
-                    <div class="more_input clearfix">
+                    <div style="top: 147px; position: absolute;"class="more_input clearfix">
                         <input type="checkbox" name="remember" {{ checked }}>
                         <label>remember</label>
                     </div>
                     <div style="top: 107px; position: absolute;">
                         <ul>
-                            <li style="float:left"><input type="text" id="vc" name="vc"></li>
+                            <li style="float:left"><input style="height: 26px;width: 150px" type="text" id="vc" name="vc"></li>
 
-                            <li style="float:left; margin-left:20px"><img id='verifycode' src="/user/verifycode/" onclick="this.src='/user/verifycode/?'+Math.random()" alt="CheckCode"/></li>
+                            <li style="float:left; margin-left:3px "><img style="height: 30px;"id='verifycode' src="/user/verifycode/" onclick="this.src='/user/verifycode/?'+Math.random()" alt="CheckCode"/></li>
                         </ul>
                     </div>
                     <input type="button" id="btnLogin" value="login" class="input_submit">
