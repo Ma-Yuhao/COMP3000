@@ -27,8 +27,9 @@ from django.views.decorators.cache import cache_page
 #@cache_page(60, key_prefix="store-index")
 def index(request):
     logger.info(request.body)
-    products = Products.objects.all().order_by('create_time')[:4]
     products_type = ProductsType.objects.all()
+    length=len(products_type)
+    products = Products.objects.all().order_by('create_time')[:4*length]
     print(products)
     context = {
         'products':products,
