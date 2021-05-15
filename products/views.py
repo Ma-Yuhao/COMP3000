@@ -30,7 +30,6 @@ def index(request):
     products_type = ProductsType.objects.all()
     length=len(products_type)
     products = Products.objects.all().order_by('create_time')[:4*length]
-    print(products)
     context = {
         'products':products,
         'products_type':products_type,
