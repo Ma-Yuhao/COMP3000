@@ -7,7 +7,8 @@ class OrderInfo(BaseModel):
         (1, "Cash on Delivery"),
         (2, "Wechat"),
         (3, "Alipay"),
-        (4, "UnionPay")
+        (4, "UnionPay"),
+        (5, "PayPal")
     )
 
     PAY_METHODS_ENUM = {
@@ -15,6 +16,7 @@ class OrderInfo(BaseModel):
         "WEIXIN": 2,
         "ALIPAY": 3,
         "UNIONPAY": 4,
+        "PayPal": 5,
     }
 
     ORDER_STATUS_CHOICES = (

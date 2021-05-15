@@ -43,7 +43,6 @@
                                 {% endfor %}
                             </td>
                             <td width="15%">{{ order.total_price }}$</td>
-                            <td width="15%">{{ order.status | order_status}}</td>
                            {% if order.status == 1 %}
                                <td width="15%"> {{ order.get_status_display }}</td>
                             {% else %}

@@ -418,6 +418,7 @@ html,body{height:100%}
 .pay_style_con .zhifubao{background:url(../images/pay_icons.png) 12px -72px no-repeat #fff;width:50px;height:16px}
 
 .pay_style_con .bank{background:url(../images/pay_icons.png) 6px -108px no-repeat #fff;}
+.pay_style_con .paypal{background:url(../images/paypal.jpg) no-repeat #fff;width:50px;height:16px}
 
 
 .product_list_th{height:40px;border-bottom:1px solid #ccc}
