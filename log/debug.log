@@ -1,0 +1,921 @@
+INFO b''
+INFO b''
+INFO "GET / HTTP/1.1" 200 5958
+INFO "GET /static/css/reset.css HTTP/1.1" 200 664
+INFO "GET /static/css/main.css HTTP/1.1" 200 23202
+INFO "GET /static/js/slide.js HTTP/1.1" 200 2473
+INFO "GET /static/images/logo.png HTTP/1.1" 200 5392
+INFO "GET /static/js/jquery-ui.min.js HTTP/1.1" 200 71001
+INFO "GET /static/js/jquery-1.12.4.min.js HTTP/1.1" 200 97168
+INFO "GET /static/images/slide.jpg HTTP/1.1" 200 71151
+INFO "GET /static/images/slide02.jpg HTTP/1.1" 200 207555
+INFO "GET /static/images/slide04.jpg HTTP/1.1" 200 163732
+INFO "GET /static/images/slide03.jpg HTTP/1.1" 200 437143
+WARNING Not Found: /media/typelogo/2.jpg
+WARNING Not Found: /media/
+WARNING Not Found: /media/
+WARNING Not Found: /media/typelogo/2.jpg
+INFO "GET /static/images/adv01.jpg HTTP/1.1" 200 13501
+WARNING Not Found: /media/typelogo/40.png
+WARNING Not Found: /media/typelogo/40.png
+WARNING "GET /media/ HTTP/1.1" 404 1722
+INFO "GET /static/images/adv02.jpg HTTP/1.1" 200 12157
+WARNING "GET /media/typelogo/2.jpg HTTP/1.1" 404 1799
+WARNING "GET /media/typelogo/40.png HTTP/1.1" 404 1802
+INFO "GET /static/images/bg.jpg HTTP/1.1" 200 39319
+INFO "GET /static/images/icons.png HTTP/1.1" 200 5931
+INFO "GET /cart/count/ HTTP/1.1" 302 0
+INFO "GET /user/login/ HTTP/1.1" 200 3940
+WARNING Not Found: /favicon.ico
+WARNING Not Found: /favicon.ico
+WARNING "GET /favicon.ico HTTP/1.1" 404 3727
+INFO b''
+INFO b''
+INFO "GET / HTTP/1.1" 200 5958
+INFO "GET /static/css/reset.css HTTP/1.1" 200 664
+INFO "GET /static/css/main.css HTTP/1.1" 200 23202
+INFO "GET /static/js/slide.js HTTP/1.1" 200 2473
+INFO "GET /static/images/logo.png HTTP/1.1" 200 5392
+INFO "GET /static/js/jquery-1.12.4.min.js HTTP/1.1" 200 97168
+INFO "GET /static/js/jquery-ui.min.js HTTP/1.1" 200 71001
+INFO "GET /static/images/slide.jpg HTTP/1.1" 200 71151
+INFO "GET /static/images/slide02.jpg HTTP/1.1" 200 207555
+INFO "GET /static/images/slide03.jpg HTTP/1.1" 200 437143
+WARNING Not Found: /media/typelogo/2.jpg
+WARNING Not Found: /media/typelogo/2.jpg
+WARNING Not Found: /media/
+WARNING Not Found: /media/
+WARNING Not Found: /media/typelogo/40.png
+WARNING Not Found: /media/typelogo/40.png
+INFO "GET /static/images/adv01.jpg HTTP/1.1" 200 13501
+WARNING "GET /media/typelogo/2.jpg HTTP/1.1" 404 1799
+INFO "GET /static/images/adv02.jpg HTTP/1.1" 200 12157
+WARNING "GET /media/ HTTP/1.1" 404 1722
+WARNING "GET /media/typelogo/40.png HTTP/1.1" 404 1802
+INFO "GET /cart/count/ HTTP/1.1" 302 0
+INFO "GET /static/images/icons.png HTTP/1.1" 200 5931
+INFO "GET /static/images/slide04.jpg HTTP/1.1" 200 163732
+INFO "GET /static/images/bg.jpg HTTP/1.1" 200 39319
+WARNING Not Found: /favicon.ico
+WARNING Not Found: /favicon.ico
+WARNING "GET /favicon.ico HTTP/1.1" 404 3727
+INFO "GET /user/login/ HTTP/1.1" 200 3940
+INFO b''
+INFO b''
+INFO "GET / HTTP/1.1" 200 5958
+WARNING Not Found: /media/typelogo/2.jpg
+WARNING Not Found: /media/typelogo/2.jpg
+WARNING Not Found: /media/
+WARNING Not Found: /media/
+WARNING "GET /media/typelogo/2.jpg HTTP/1.1" 404 1799
+WARNING Not Found: /media/typelogo/40.png
+WARNING "GET /media/ HTTP/1.1" 404 1722
+WARNING Not Found: /media/typelogo/40.png
+WARNING "GET /media/typelogo/40.png HTTP/1.1" 404 1802
+INFO "GET /cart/count/ HTTP/1.1" 302 0
+INFO "GET /user/login/ HTTP/1.1" 200 3940
+INFO "GET /admin/ HTTP/1.1" 302 0
+INFO "GET /admin/login/?next=/admin/ HTTP/1.1" 200 3716
+INFO "GET /static/admin/simpleui-x/css/login.css?_=2.1 HTTP/1.1" 304 0
+INFO "GET /static/admin/simpleui-x/js/login.js?_=3.3 HTTP/1.1" 304 0
+INFO "GET /static/admin/simpleui-x/img/logo.png HTTP/1.1" 304 0
+INFO "GET /static/admin/simpleui-x/particles/particles.js HTTP/1.1" 304 0
+INFO "GET /static/admin/simpleui-x/particles/app.js HTTP/1.1" 304 0
+INFO "GET /static/admin/simpleui-x/img/bg.svg HTTP/1.1" 304 0
+INFO "POST /admin/login/?next=/admin/ HTTP/1.1" 302 0
+INFO "GET /admin/ HTTP/1.1" 200 17454
+INFO "GET /static/admin/simpleui-x/css/index.css?_=3.2 HTTP/1.1" 304 0
+INFO "GET /static/admin/simpleui-x/waves/waves.min.css?_=2.1 HTTP/1.1" 304 0
+INFO "GET /static/admin/simpleui-x/automatic/segment.js?_=2020.9.26 HTTP/1.1" 200 1186
+INFO "GET /static/admin/simpleui-x/automatic/dicts.js?_=2020.9.26 HTTP/1.1" 200 6190
+INFO "GET /static/admin/simpleui-x/locale/en-us.js?_=2020.9.26 HTTP/1.1" 200 811
+INFO "GET /static/admin/simpleui-x/js/cookie.js?_=2020.9.26 HTTP/1.1" 200 524
+INFO "GET /static/admin/simpleui-x/theme/theme.js?_=2020.9.26 HTTP/1.1" 200 4274
+INFO "GET /static/admin/simpleui-x/waves/waves.min.js?_=2020.9.26 HTTP/1.1" 200 6329
+INFO "GET /static/admin/simpleui-x/js/index.js?_=2020.9.26 HTTP/1.1" 200 20752
+INFO "GET /admin/authtoken/token/ HTTP/1.1" 200 19357
+INFO "GET /static/admin/simpleui-x/theme/simpleui.css HTTP/1.1" 304 0
+INFO "GET /static/admin/simpleui-x/css/base.css?_=2.7 HTTP/1.1" 304 0
+INFO "GET /static/admin/simpleui-x/locale/en-us.js?_=2.1.2 HTTP/1.1" 304 0
+INFO "GET /static/admin/simpleui-x/js/language.js?_=2.1.2 HTTP/1.1" 304 0
+INFO "GET /static/admin/css/base.css?_=2.7 HTTP/1.1" 200 16206
+INFO "GET /static/admin/simpleui-x/locale/en-us.js HTTP/1.1" 200 811
+INFO "GET /static/admin/css/changelists.css?_=20180905 HTTP/1.1" 304 0
+INFO "GET /static/admin/css/responsive.css?_=20180905 HTTP/1.1" 304 0
+INFO "GET /static/admin/simpleui-x/js/cookie.js HTTP/1.1" 304 0
+INFO "GET /static/admin/simpleui-x/elementui/umd/locale/en.js?_=2.1.2 HTTP/1.1" 200 3461
+INFO "GET /static/admin/js/core.js HTTP/1.1" 304 0
+INFO "GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 304 0
+INFO "GET /static/admin/js/jquery.init.js HTTP/1.1" 304 0
+INFO "GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 304 0
+INFO "GET /static/admin/js/actions.js HTTP/1.1" 304 0
+INFO "GET /static/admin/js/urlify.js HTTP/1.1" 304 0
+INFO "GET /static/admin/js/prepopulate.js HTTP/1.1" 304 0
+INFO "GET /static/admin/js/vendor/xregexp/xregexp.js HTTP/1.1" 304 0
+INFO "GET /static/admin/js/vendor/jquery/jquery.min.js HTTP/1.1" 304 0
+INFO "GET /static/admin/simpleui-x/automatic/dicts.js HTTP/1.1" 304 0
+INFO "GET /static/admin/simpleui-x/automatic/segment.js HTTP/1.1" 304 0
+INFO "GET /admin/jsi18n/ HTTP/1.1" 200 3189
+INFO "GET /static/admin/img/sorting-icons.svg HTTP/1.1" 200 1149
+INFO "GET /admin/authtoken/token/add/ HTTP/1.1" 200 17288
+INFO "GET /static/admin/js/change_form.js HTTP/1.1" 304 0
+INFO "GET /static/admin/css/forms.css HTTP/1.1" 304 0
+INFO "GET /static/admin/js/prepopulate_init.js HTTP/1.1" 304 0
+INFO "GET /admin/jsi18n/ HTTP/1.1" 200 3189
+INFO "GET /static/admin/css/widgets.css HTTP/1.1" 304 0
+INFO "GET /admin/users/passport/ HTTP/1.1" 200 18599
+INFO "GET /admin/jsi18n/ HTTP/1.1" 200 3189
+INFO "POST /admin/authtoken/token/add/ HTTP/1.1" 302 0
+INFO "GET /admin/authtoken/token/ HTTP/1.1" 200 20197
+INFO "GET /admin/jsi18n/ HTTP/1.1" 200 3189
+INFO "GET /admin/ HTTP/1.1" 200 18072
+INFO "GET /admin/authtoken/token/ HTTP/1.1" 200 20002
+INFO "GET /admin/jsi18n/ HTTP/1.1" 200 3189
+INFO "GET /admin/auth/group/ HTTP/1.1" 200 22309
+INFO "GET /admin/jsi18n/ HTTP/1.1" 200 3189
+INFO "GET /admin/auth/user/ HTTP/1.1" 200 27985
+INFO "GET /admin/jsi18n/ HTTP/1.1" 200 3189
+INFO "GET /admin/auth/user/add/ HTTP/1.1" 200 18840
+INFO "GET /admin/jsi18n/ HTTP/1.1" 200 3189
+INFO "GET /admin/ HTTP/1.1" 200 17146
+INFO "GET /admin/authtoken/token/ HTTP/1.1" 200 20002
+INFO "GET /admin/jsi18n/ HTTP/1.1" 200 3189
+INFO "GET /admin/ HTTP/1.1" 200 17136
+WARNING Not Found: /admin/authtoken/token/
+WARNING Not Found: /admin/authtoken/token/
+WARNING "GET /admin/authtoken/token/ HTTP/1.1" 404 5897
+INFO "GET /admin/products/products/ HTTP/1.1" 200 28513
+INFO "GET /admin/jsi18n/ HTTP/1.1" 200 3189
+INFO "GET /admin/order/orderinfo/ HTTP/1.1" 200 24919
+INFO "GET /admin/jsi18n/ HTTP/1.1" 200 3189
+INFO "GET /admin/products/products/ HTTP/1.1" 200 28513
+INFO "GET /admin/jsi18n/ HTTP/1.1" 200 3189
+INFO "GET /admin/products/productstype/ HTTP/1.1" 200 18990
+INFO "GET /admin/jsi18n/ HTTP/1.1" 200 3189
+INFO "GET /admin/users/passport/ HTTP/1.1" 200 18599
+INFO "GET /admin/jsi18n/ HTTP/1.1" 200 3189
+INFO b''
+INFO b''
+INFO "GET / HTTP/1.1" 200 5958
+WARNING Not Found: /media/typelogo/2.jpg
+WARNING Not Found: /media/typelogo/2.jpg
+WARNING "GET /media/typelogo/2.jpg HTTP/1.1" 404 1799
+WARNING Not Found: /media/
+WARNING Not Found: /media/
+WARNING Not Found: /media/typelogo/40.png
+WARNING Not Found: /media/typelogo/40.png
+WARNING "GET /media/ HTTP/1.1" 404 1722
+WARNING "GET /media/typelogo/40.png HTTP/1.1" 404 1802
+INFO "GET /cart/count/ HTTP/1.1" 302 0
+WARNING Not Found: /favicon.ico
+WARNING Not Found: /favicon.ico
+INFO "GET /user/login/ HTTP/1.1" 200 3940
+WARNING "GET /favicon.ico HTTP/1.1" 404 3727
+INFO "GET /products/1/ HTTP/1.1" 200 7359
+WARNING Not Found: /media/
+WARNING Not Found: /media/
+WARNING "GET /media/ HTTP/1.1" 404 1722
+INFO "GET /cart/count/ HTTP/1.1" 302 0
+INFO "GET /user/login/ HTTP/1.1" 200 3940
+INFO "GET /user/login/ HTTP/1.1" 200 3940
+INFO "GET /static/images/login_banner.png HTTP/1.1" 200 17578
+INFO "GET /user/verifycode/ HTTP/1.1" 200 1476
+INFO "GET /static/images/icons02.png HTTP/1.1" 200 2071
+INFO "GET /user/register/ HTTP/1.1" 200 3269
+INFO "GET /static/images/interval_line.png HTTP/1.1" 200 1123
+INFO "GET /static/images/register_banner.png HTTP/1.1" 200 54856
+INFO "POST /user/register_handle/ HTTP/1.1" 200 3300
+INFO "POST /user/register_handle/ HTTP/1.1" 200 3300
+INFO "GET /user/login HTTP/1.1" 301 0
+INFO "GET /user/login/ HTTP/1.1" 200 3940
+INFO "GET /user/verifycode/ HTTP/1.1" 200 1468
+INFO "POST /user/login_check/ HTTP/1.1" 200 61
+INFO "GET /admin/ HTTP/1.1" 302 0
+INFO "GET /admin/login/?next=/admin/ HTTP/1.1" 200 3716
+INFO "GET /static/admin/simpleui-x/img/logo.png HTTP/1.1" 304 0
+INFO "GET /static/admin/simpleui-x/css/login.css?_=2.1 HTTP/1.1" 304 0
+INFO "GET /static/admin/simpleui-x/particles/particles.js HTTP/1.1" 304 0
+INFO "GET /static/admin/simpleui-x/js/login.js?_=3.3 HTTP/1.1" 304 0
+INFO "GET /static/admin/simpleui-x/particles/app.js HTTP/1.1" 304 0
+INFO "GET /admin/ HTTP/1.1" 302 0
+INFO "GET /admin/login/?next=/admin/ HTTP/1.1" 200 3716
+INFO "GET /static/admin/simpleui-x/img/bg.svg HTTP/1.1" 304 0
+INFO "POST /admin/login/?next=/admin/ HTTP/1.1" 302 0
+INFO "GET /admin/ HTTP/1.1" 200 17136
+INFO "GET /static/admin/simpleui-x/css/index.css?_=3.2 HTTP/1.1" 304 0
+INFO "GET /static/admin/simpleui-x/waves/waves.min.css?_=2.1 HTTP/1.1" 304 0
+INFO "GET /admin/users/passport/ HTTP/1.1" 200 18599
+INFO "GET /static/admin/simpleui-x/theme/simpleui.css HTTP/1.1" 304 0
+INFO "GET /static/admin/simpleui-x/css/base.css?_=2.7 HTTP/1.1" 304 0
+INFO "GET /static/admin/simpleui-x/js/language.js?_=2.1.2 HTTP/1.1" 304 0
+INFO "GET /static/admin/simpleui-x/locale/en-us.js?_=2.1.2 HTTP/1.1" 304 0
+INFO "GET /static/admin/simpleui-x/js/cookie.js HTTP/1.1" 304 0
+INFO "GET /static/admin/css/changelists.css?_=20180905 HTTP/1.1" 304 0
+INFO "GET /static/admin/js/core.js HTTP/1.1" 304 0
+INFO "GET /static/admin/js/jquery.init.js HTTP/1.1" 304 0
+INFO "GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 304 0
+INFO "GET /static/admin/css/responsive.css?_=20180905 HTTP/1.1" 304 0
+INFO "GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 304 0
+INFO "GET /static/admin/js/actions.js HTTP/1.1" 304 0
+INFO "GET /static/admin/js/urlify.js HTTP/1.1" 304 0
+INFO "GET /static/admin/js/prepopulate.js HTTP/1.1" 304 0
+INFO "GET /static/admin/js/vendor/xregexp/xregexp.js HTTP/1.1" 304 0
+INFO "GET /static/admin/js/vendor/jquery/jquery.min.js HTTP/1.1" 304 0
+INFO "GET /static/admin/simpleui-x/automatic/dicts.js HTTP/1.1" 304 0
+INFO "GET /static/admin/simpleui-x/automatic/segment.js HTTP/1.1" 304 0
+INFO "GET /admin/jsi18n/ HTTP/1.1" 200 3189
+INFO "GET /admin/users/passport/1/change/ HTTP/1.1" 200 19664
+INFO "GET /static/admin/css/forms.css HTTP/1.1" 304 0
+INFO "GET /static/admin/js/change_form.js HTTP/1.1" 304 0
+INFO "GET /static/admin/js/prepopulate_init.js HTTP/1.1" 304 0
+INFO "GET /admin/jsi18n/ HTTP/1.1" 200 3189
+INFO "GET /static/admin/css/widgets.css HTTP/1.1" 304 0
+WARNING Forbidden (CSRF token missing or incorrect.): /user/login_check/
+WARNING "POST /user/login_check/ HTTP/1.1" 403 2502
+INFO "GET /user/login/ HTTP/1.1" 200 3940
+INFO "GET /user/verifycode/ HTTP/1.1" 200 1518
+INFO "POST /user/login_check/ HTTP/1.1" 200 27
+INFO b''
+INFO b''
+INFO "GET / HTTP/1.1" 200 5944
+WARNING Not Found: /media/typelogo/2.jpg
+WARNING Not Found: /media/typelogo/2.jpg
+WARNING Not Found: /media/
+WARNING Not Found: /media/
+INFO "GET /cart/count/ HTTP/1.1" 200 10
+WARNING Not Found: /media/typelogo/40.png
+WARNING Not Found: /media/typelogo/40.png
+WARNING "GET /media/typelogo/2.jpg HTTP/1.1" 404 1799
+WARNING "GET /media/ HTTP/1.1" 404 1722
+WARNING "GET /media/typelogo/40.png HTTP/1.1" 404 1802
+INFO "GET /products/1/ HTTP/1.1" 200 7345
+WARNING Not Found: /media/
+WARNING Not Found: /media/
+WARNING "GET /media/ HTTP/1.1" 404 1722
+INFO "GET /cart/count/ HTTP/1.1" 200 10
+INFO "POST /cart/add/ HTTP/1.1" 200 10
+INFO "GET /cart/ HTTP/1.1" 200 9914
+WARNING Not Found: /media/
+WARNING Not Found: /media/
+WARNING "GET /media/ HTTP/1.1" 404 1722
+INFO "GET /cart/count/ HTTP/1.1" 200 10
+INFO "GET /cart/count/ HTTP/1.1" 200 10
+INFO "POST /order/place/ HTTP/1.1" 200 5906
+WARNING Not Found: /media/
+WARNING Not Found: /media/
+WARNING "GET /media/ HTTP/1.1" 404 1722
+INFO "GET /static/images/pay_icons.png HTTP/1.1" 200 11917
+INFO "GET /cart/count/ HTTP/1.1" 200 10
+INFO "GET /user/address HTTP/1.1" 301 0
+INFO "GET /user/address/ HTTP/1.1" 200 4555
+INFO "GET /static/images/left_bg.jpg HTTP/1.1" 200 1367
+INFO "GET /cart/count/ HTTP/1.1" 200 10
+INFO "POST /user/address/ HTTP/1.1" 302 0
+INFO "GET /user/address/ HTTP/1.1" 200 4587
+INFO "GET /cart/count/ HTTP/1.1" 200 10
+INFO "GET /cart/ HTTP/1.1" 200 9914
+WARNING Not Found: /media/
+WARNING Not Found: /media/
+WARNING "GET /media/ HTTP/1.1" 404 1722
+INFO "GET /cart/count/ HTTP/1.1" 200 10
+INFO "GET /cart/count/ HTTP/1.1" 200 10
+INFO "POST /order/place/ HTTP/1.1" 200 5926
+WARNING Not Found: /media/
+WARNING Not Found: /media/
+WARNING "GET /media/ HTTP/1.1" 404 1722
+INFO "GET /cart/count/ HTTP/1.1" 200 10
+INFO "POST /order/commit/ HTTP/1.1" 200 10
+INFO "GET /user/order/ HTTP/1.1" 200 5947
+WARNING Not Found: /media/
+WARNING Not Found: /media/
+WARNING "GET /media/ HTTP/1.1" 404 1722
+INFO "GET /cart/count/ HTTP/1.1" 200 10
+INFO "GET /user/order/ HTTP/1.1" 200 5947
+WARNING Not Found: /media/
+WARNING Not Found: /media/
+WARNING "GET /media/ HTTP/1.1" 404 1722
+INFO "GET /cart/count/ HTTP/1.1" 200 10
+INFO "GET /user/order/ HTTP/1.1" 200 5947
+WARNING Not Found: /media/
+WARNING Not Found: /media/
+WARNING "GET /media/ HTTP/1.1" 404 1722
+INFO "GET /cart/count/ HTTP/1.1" 200 10
+INFO "GET /user/order/ HTTP/1.1" 200 5947
+WARNING Not Found: /media/
+WARNING Not Found: /media/
+WARNING "GET /media/ HTTP/1.1" 404 1722
+INFO "GET /cart/count/ HTTP/1.1" 200 10
+INFO "GET /user/order/ HTTP/1.1" 200 5947
+INFO "GET /static/css/reset.css HTTP/1.1" 200 664
+WARNING Not Found: /media/
+WARNING Not Found: /media/
+INFO "GET /static/css/main.css HTTP/1.1" 200 23202
+INFO "GET /static/js/slide.js HTTP/1.1" 200 2473
+WARNING "GET /media/ HTTP/1.1" 404 1722
+INFO "GET /static/js/jquery-ui.min.js HTTP/1.1" 200 71001
+INFO "GET /static/images/logo.png HTTP/1.1" 200 5392
+INFO "GET /static/js/jquery-1.12.4.min.js HTTP/1.1" 200 97168
+INFO "GET /cart/count/ HTTP/1.1" 200 10
+INFO "GET /static/images/bg.jpg HTTP/1.1" 200 39319
+INFO "GET /static/images/icons.png HTTP/1.1" 200 5931
+INFO "GET /static/images/left_bg.jpg HTTP/1.1" 200 1367
+WARNING Not Found: /favicon.ico
+WARNING Not Found: /favicon.ico
+WARNING "GET /favicon.ico HTTP/1.1" 404 3727
+INFO "POST /order/pay/ HTTP/1.1" 200 917
+INFO "GET /user/order/ HTTP/1.1" 200 5854
+WARNING Not Found: /media/
+WARNING Not Found: /media/
+WARNING "GET /media/ HTTP/1.1" 404 1722
+INFO "GET /cart/count/ HTTP/1.1" 200 10
+INFO "GET /user/order/ HTTP/1.1" 200 5862
+WARNING Not Found: /media/
+WARNING Not Found: /media/
+WARNING "GET /media/ HTTP/1.1" 404 1722
+INFO "GET /cart/count/ HTTP/1.1" 200 10
+INFO "GET /user/logout/ HTTP/1.1" 302 0
+INFO b''
+INFO b''
+INFO "GET / HTTP/1.1" 200 5958
+WARNING Not Found: /media/typelogo/2.jpg
+WARNING Not Found: /media/typelogo/2.jpg
+WARNING Not Found: /media/
+WARNING Not Found: /media/
+WARNING "GET /media/typelogo/2.jpg HTTP/1.1" 404 1799
+WARNING "GET /media/ HTTP/1.1" 404 1722
+WARNING Not Found: /media/typelogo/40.png
+WARNING Not Found: /media/typelogo/40.png
+WARNING "GET /media/typelogo/40.png HTTP/1.1" 404 1802
+INFO "GET /cart/count/ HTTP/1.1" 302 0
+INFO "GET /user/login/ HTTP/1.1" 200 3940
+INFO "GET /user/register/ HTTP/1.1" 200 3269
+INFO "GET /user/login/ HTTP/1.1" 200 3940
+INFO "GET /user/verifycode/ HTTP/1.1" 200 1620
+INFO "GET /user/register/ HTTP/1.1" 200 3269
+INFO "GET /user/register/ HTTP/1.1" 200 3269
+INFO "GET /static/css/reset.css HTTP/1.1" 200 664
+INFO "GET /static/css/main.css HTTP/1.1" 200 23202
+INFO "GET /static/images/logo.png HTTP/1.1" 200 5392
+INFO "GET /static/js/jquery-ui.min.js HTTP/1.1" 200 71001
+INFO "GET /static/js/jquery-1.12.4.min.js HTTP/1.1" 200 97168
+INFO "GET /static/js/slide.js HTTP/1.1" 200 2473
+INFO "GET /static/images/bg.jpg HTTP/1.1" 200 39319
+INFO "GET /static/images/interval_line.png HTTP/1.1" 200 1123
+INFO "GET /static/images/icons02.png HTTP/1.1" 200 2071
+INFO "GET /static/images/register_banner.png HTTP/1.1" 200 54856
+WARNING Not Found: /favicon.ico
+WARNING Not Found: /favicon.ico
+WARNING "GET /favicon.ico HTTP/1.1" 404 3727
+INFO "GET /user/login/ HTTP/1.1" 200 3940
+INFO "GET /user/verifycode/ HTTP/1.1" 200 1689
+INFO "GET /user/login/ HTTP/1.1" 200 3954
+INFO "GET /user/verifycode/ HTTP/1.1" 200 1339
+INFO "GET /user/login/ HTTP/1.1" 200 3954
+INFO "GET /static/css/reset.css HTTP/1.1" 200 664
+INFO "GET /static/css/main.css HTTP/1.1" 200 23202
+INFO "GET /static/js/slide.js HTTP/1.1" 200 2473
+INFO "GET /static/images/logo.png HTTP/1.1" 200 5392
+INFO "GET /static/js/jquery-ui.min.js HTTP/1.1" 200 71001
+INFO "GET /static/js/jquery-1.12.4.min.js HTTP/1.1" 200 97168
+INFO "GET /user/verifycode/ HTTP/1.1" 200 1395
+INFO "GET /static/images/bg.jpg HTTP/1.1" 200 39319
+INFO "GET /static/images/login_banner.png HTTP/1.1" 200 17578
+INFO "GET /static/images/icons02.png HTTP/1.1" 200 2071
+WARNING Not Found: /favicon.ico
+WARNING Not Found: /favicon.ico
+WARNING "GET /favicon.ico HTTP/1.1" 404 3727
+INFO "GET /user/login/ HTTP/1.1" 200 3954
+INFO "GET /static/css/reset.css HTTP/1.1" 200 664
+INFO "GET /static/css/main.css HTTP/1.1" 200 23202
+INFO "GET /static/js/jquery-ui.min.js HTTP/1.1" 200 71001
+INFO "GET /static/js/jquery-1.12.4.min.js HTTP/1.1" 200 97168
+INFO "GET /static/images/logo.png HTTP/1.1" 200 5392
+INFO "GET /static/js/slide.js HTTP/1.1" 200 2473
+INFO "GET /user/verifycode/ HTTP/1.1" 200 1466
+INFO "GET /static/images/bg.jpg HTTP/1.1" 200 39319
+INFO "GET /static/images/login_banner.png HTTP/1.1" 200 17578
+INFO "GET /static/images/icons02.png HTTP/1.1" 200 2071
+WARNING Not Found: /favicon.ico
+WARNING Not Found: /favicon.ico
+WARNING "GET /favicon.ico HTTP/1.1" 404 3727
+INFO "GET /user/login/ HTTP/1.1" 200 3954
+INFO "GET /static/css/reset.css HTTP/1.1" 200 664
+INFO "GET /static/css/main.css HTTP/1.1" 200 23202
+INFO "GET /static/js/slide.js HTTP/1.1" 200 2473
+INFO "GET /static/images/logo.png HTTP/1.1" 200 5392
+INFO "GET /static/js/jquery-ui.min.js HTTP/1.1" 200 71001
+INFO "GET /static/js/jquery-1.12.4.min.js HTTP/1.1" 200 97168
+INFO "GET /user/verifycode/ HTTP/1.1" 200 1500
+INFO "GET /static/images/login_banner.png HTTP/1.1" 200 17578
+INFO "GET /static/images/bg.jpg HTTP/1.1" 200 39319
+INFO "GET /static/images/icons02.png HTTP/1.1" 200 2071
+WARNING Not Found: /favicon.ico
+WARNING Not Found: /favicon.ico
+WARNING "GET /favicon.ico HTTP/1.1" 404 3727
+INFO "GET /user/login/ HTTP/1.1" 200 3977
+INFO "GET /static/css/reset.css HTTP/1.1" 200 664
+INFO "GET /static/css/main.css HTTP/1.1" 200 23202
+INFO "GET /static/js/slide.js HTTP/1.1" 200 2473
+INFO "GET /static/js/jquery-ui.min.js HTTP/1.1" 200 71001
+INFO "GET /static/js/jquery-1.12.4.min.js HTTP/1.1" 200 97168
+INFO "GET /static/images/logo.png HTTP/1.1" 200 5392
+INFO "GET /user/verifycode/ HTTP/1.1" 200 1506
+INFO "GET /static/images/bg.jpg HTTP/1.1" 200 39319
+INFO "GET /static/images/icons02.png HTTP/1.1" 200 2071
+INFO "GET /static/images/login_banner.png HTTP/1.1" 200 17578
+WARNING Not Found: /favicon.ico
+WARNING Not Found: /favicon.ico
+WARNING "GET /favicon.ico HTTP/1.1" 404 3727
+INFO "GET /user/login/ HTTP/1.1" 200 3973
+INFO "GET /static/css/reset.css HTTP/1.1" 200 664
+INFO "GET /static/css/main.css HTTP/1.1" 200 23202
+INFO "GET /static/images/logo.png HTTP/1.1" 200 5392
+INFO "GET /static/js/slide.js HTTP/1.1" 200 2473
+INFO "GET /static/js/jquery-ui.min.js HTTP/1.1" 200 71001
+INFO "GET /static/js/jquery-1.12.4.min.js HTTP/1.1" 200 97168
+INFO "GET /user/verifycode/ HTTP/1.1" 200 1388
+INFO "GET /static/images/login_banner.png HTTP/1.1" 200 17578
+INFO "GET /static/images/bg.jpg HTTP/1.1" 200 39319
+INFO "GET /static/images/icons02.png HTTP/1.1" 200 2071
+WARNING Not Found: /favicon.ico
+WARNING Not Found: /favicon.ico
+WARNING "GET /favicon.ico HTTP/1.1" 404 3727
+INFO "GET /user/login/ HTTP/1.1" 200 3976
+INFO "GET /static/css/reset.css HTTP/1.1" 200 664
+INFO "GET /static/js/slide.js HTTP/1.1" 200 2473
+INFO "GET /static/css/main.css HTTP/1.1" 200 23202
+INFO "GET /static/images/logo.png HTTP/1.1" 200 5392
+INFO "GET /static/js/jquery-ui.min.js HTTP/1.1" 200 71001
+INFO "GET /static/js/jquery-1.12.4.min.js HTTP/1.1" 200 97168
+INFO "GET /user/verifycode/ HTTP/1.1" 200 1430
+INFO "GET /static/images/bg.jpg HTTP/1.1" 200 39319
+INFO "GET /static/images/icons02.png HTTP/1.1" 200 2071
+INFO "GET /static/images/login_banner.png HTTP/1.1" 200 17578
+WARNING Not Found: /favicon.ico
+WARNING Not Found: /favicon.ico
+WARNING "GET /favicon.ico HTTP/1.1" 404 3727
+INFO "GET /user/login/ HTTP/1.1" 200 3976
+INFO "GET /static/css/reset.css HTTP/1.1" 200 664
+INFO "GET /static/css/main.css HTTP/1.1" 200 23202
+INFO "GET /static/images/logo.png HTTP/1.1" 200 5392
+INFO "GET /static/js/slide.js HTTP/1.1" 200 2473
+INFO "GET /static/js/jquery-1.12.4.min.js HTTP/1.1" 200 97168
+INFO "GET /static/js/jquery-ui.min.js HTTP/1.1" 200 71001
+INFO "GET /user/verifycode/ HTTP/1.1" 200 1348
+INFO "GET /static/images/bg.jpg HTTP/1.1" 200 39319
+INFO "GET /static/images/login_banner.png HTTP/1.1" 200 17578
+INFO "GET /static/images/icons02.png HTTP/1.1" 200 2071
+WARNING Not Found: /favicon.ico
+WARNING Not Found: /favicon.ico
+WARNING "GET /favicon.ico HTTP/1.1" 404 3727
+INFO "GET /user/login/ HTTP/1.1" 200 3976
+INFO "GET /static/css/reset.css HTTP/1.1" 200 664
+INFO "GET /static/css/main.css HTTP/1.1" 200 23202
+INFO "GET /static/js/slide.js HTTP/1.1" 200 2473
+INFO "GET /static/images/logo.png HTTP/1.1" 200 5392
+INFO "GET /static/js/jquery-1.12.4.min.js HTTP/1.1" 200 97168
+INFO "GET /static/js/jquery-ui.min.js HTTP/1.1" 200 71001
+INFO "GET /user/verifycode/ HTTP/1.1" 200 1494
+INFO "GET /static/images/bg.jpg HTTP/1.1" 200 39319
+INFO "GET /static/images/icons02.png HTTP/1.1" 200 2071
+INFO "GET /static/images/login_banner.png HTTP/1.1" 200 17578
+WARNING Not Found: /favicon.ico
+WARNING Not Found: /favicon.ico
+WARNING "GET /favicon.ico HTTP/1.1" 404 3727
+INFO "GET /user/login/ HTTP/1.1" 200 3976
+INFO "GET /static/css/reset.css HTTP/1.1" 200 664
+INFO "GET /static/css/main.css HTTP/1.1" 200 23202
+INFO "GET /static/js/slide.js HTTP/1.1" 200 2473
+INFO "GET /static/images/logo.png HTTP/1.1" 200 5392
+INFO "GET /static/js/jquery-ui.min.js HTTP/1.1" 200 71001
+INFO "GET /static/js/jquery-1.12.4.min.js HTTP/1.1" 200 97168
+INFO "GET /user/verifycode/ HTTP/1.1" 200 1568
+INFO "GET /static/images/login_banner.png HTTP/1.1" 200 17578
+INFO "GET /static/images/bg.jpg HTTP/1.1" 200 39319
+INFO "GET /static/images/icons02.png HTTP/1.1" 200 2071
+WARNING Not Found: /favicon.ico
+WARNING Not Found: /favicon.ico
+WARNING "GET /favicon.ico HTTP/1.1" 404 3727
+INFO "GET /user/login/ HTTP/1.1" 200 3983
+INFO "GET /static/css/reset.css HTTP/1.1" 200 664
+INFO "GET /static/images/logo.png HTTP/1.1" 200 5392
+INFO "GET /static/css/main.css HTTP/1.1" 200 23202
+INFO "GET /static/js/slide.js HTTP/1.1" 200 2473
+INFO "GET /static/js/jquery-ui.min.js HTTP/1.1" 200 71001
+INFO "GET /static/js/jquery-1.12.4.min.js HTTP/1.1" 200 97168
+INFO "GET /user/verifycode/ HTTP/1.1" 200 1401
+INFO "GET /static/images/bg.jpg HTTP/1.1" 200 39319
+INFO "GET /static/images/icons02.png HTTP/1.1" 200 2071
+INFO "GET /static/images/login_banner.png HTTP/1.1" 200 17578
+WARNING Not Found: /favicon.ico
+WARNING Not Found: /favicon.ico
+WARNING "GET /favicon.ico HTTP/1.1" 404 3727
+INFO "GET /user/login/ HTTP/1.1" 200 3983
+INFO "GET /static/css/reset.css HTTP/1.1" 200 664
+INFO "GET /static/css/main.css HTTP/1.1" 200 23202
+INFO "GET /static/js/slide.js HTTP/1.1" 200 2473
+INFO "GET /static/images/logo.png HTTP/1.1" 200 5392
+INFO "GET /static/js/jquery-ui.min.js HTTP/1.1" 200 71001
+INFO "GET /static/js/jquery-1.12.4.min.js HTTP/1.1" 200 97168
+INFO "GET /user/verifycode/ HTTP/1.1" 200 1399
+INFO "GET /static/images/login_banner.png HTTP/1.1" 200 17578
+INFO "GET /static/images/bg.jpg HTTP/1.1" 200 39319
+INFO "GET /static/images/icons02.png HTTP/1.1" 200 2071
+WARNING Not Found: /favicon.ico
+WARNING Not Found: /favicon.ico
+WARNING "GET /favicon.ico HTTP/1.1" 404 3727
+INFO "GET /user/verifycode/?0.5738116652130467 HTTP/1.1" 200 1450
+INFO "GET /user/login/ HTTP/1.1" 200 3984
+INFO "GET /static/css/reset.css HTTP/1.1" 200 664
+INFO "GET /static/css/main.css HTTP/1.1" 200 23202
+INFO "GET /static/js/slide.js HTTP/1.1" 200 2473
+INFO "GET /static/images/logo.png HTTP/1.1" 200 5392
+INFO "GET /static/js/jquery-ui.min.js HTTP/1.1" 200 71001
+INFO "GET /static/js/jquery-1.12.4.min.js HTTP/1.1" 200 97168
+INFO "GET /user/verifycode/ HTTP/1.1" 200 1413
+INFO "GET /static/images/icons02.png HTTP/1.1" 200 2071
+INFO "GET /static/images/bg.jpg HTTP/1.1" 200 39319
+INFO "GET /static/images/login_banner.png HTTP/1.1" 200 17578
+WARNING Not Found: /favicon.ico
+WARNING Not Found: /favicon.ico
+WARNING "GET /favicon.ico HTTP/1.1" 404 3727
+INFO "GET /user/login/ HTTP/1.1" 200 3984
+INFO "GET /static/css/reset.css HTTP/1.1" 200 664
+INFO "GET /static/css/main.css HTTP/1.1" 200 23202
+INFO "GET /static/js/slide.js HTTP/1.1" 200 2473
+INFO "GET /static/js/jquery-1.12.4.min.js HTTP/1.1" 200 97168
+INFO "GET /static/images/logo.png HTTP/1.1" 200 5392
+INFO "GET /static/js/jquery-ui.min.js HTTP/1.1" 200 71001
+INFO "GET /user/verifycode/ HTTP/1.1" 200 1630
+INFO "GET /static/images/bg.jpg HTTP/1.1" 200 39319
+INFO "GET /static/images/icons02.png HTTP/1.1" 200 2071
+INFO "GET /static/images/login_banner.png HTTP/1.1" 200 17578
+WARNING Not Found: /favicon.ico
+WARNING Not Found: /favicon.ico
+WARNING "GET /favicon.ico HTTP/1.1" 404 3727
+INFO "GET /user/login/ HTTP/1.1" 200 3984
+INFO "GET /static/css/reset.css HTTP/1.1" 200 664
+INFO "GET /static/css/main.css HTTP/1.1" 200 23202
+INFO "GET /static/js/slide.js HTTP/1.1" 200 2473
+INFO "GET /static/images/logo.png HTTP/1.1" 200 5392
+INFO "GET /static/js/jquery-1.12.4.min.js HTTP/1.1" 200 97168
+INFO "GET /static/js/jquery-ui.min.js HTTP/1.1" 200 71001
+INFO "GET /user/verifycode/ HTTP/1.1" 200 1464
+INFO "GET /static/images/login_banner.png HTTP/1.1" 200 17578
+INFO "GET /static/images/icons02.png HTTP/1.1" 200 2071
+INFO "GET /static/images/bg.jpg HTTP/1.1" 200 39319
+WARNING Not Found: /favicon.ico
+WARNING Not Found: /favicon.ico
+WARNING "GET /favicon.ico HTTP/1.1" 404 3727
+INFO "GET /user/login/ HTTP/1.1" 200 3984
+INFO "GET /static/css/reset.css HTTP/1.1" 200 664
+INFO "GET /static/css/main.css HTTP/1.1" 200 23202
+INFO "GET /static/js/slide.js HTTP/1.1" 200 2473
+INFO "GET /static/js/jquery-1.12.4.min.js HTTP/1.1" 200 97168
+INFO "GET /static/js/jquery-ui.min.js HTTP/1.1" 200 71001
+INFO "GET /static/images/logo.png HTTP/1.1" 200 5392
+INFO "GET /user/verifycode/ HTTP/1.1" 200 1484
+INFO "GET /static/images/login_banner.png HTTP/1.1" 200 17578
+INFO "GET /static/images/bg.jpg HTTP/1.1" 200 39319
+INFO "GET /static/images/icons02.png HTTP/1.1" 200 2071
+WARNING Not Found: /favicon.ico
+WARNING Not Found: /favicon.ico
+WARNING "GET /favicon.ico HTTP/1.1" 404 3727
+INFO "GET /user/login/ HTTP/1.1" 200 3983
+INFO "GET /static/css/reset.css HTTP/1.1" 200 664
+INFO "GET /static/css/main.css HTTP/1.1" 200 23202
+INFO "GET /static/js/slide.js HTTP/1.1" 200 2473
+INFO "GET /static/images/logo.png HTTP/1.1" 200 5392
+INFO "GET /static/js/jquery-ui.min.js HTTP/1.1" 200 71001
+INFO "GET /static/js/jquery-1.12.4.min.js HTTP/1.1" 200 97168
+INFO "GET /user/verifycode/ HTTP/1.1" 200 1655
+INFO "GET /static/images/bg.jpg HTTP/1.1" 200 39319
+INFO "GET /static/images/login_banner.png HTTP/1.1" 200 17578
+INFO "GET /static/images/icons02.png HTTP/1.1" 200 2071
+WARNING Not Found: /favicon.ico
+WARNING Not Found: /favicon.ico
+WARNING "GET /favicon.ico HTTP/1.1" 404 3727
+INFO "GET /user/login/ HTTP/1.1" 200 3983
+INFO "GET /static/css/reset.css HTTP/1.1" 200 664
+INFO "GET /static/css/main.css HTTP/1.1" 200 23202
+INFO "GET /static/js/slide.js HTTP/1.1" 200 2473
+INFO "GET /static/images/logo.png HTTP/1.1" 200 5392
+INFO "GET /static/js/jquery-ui.min.js HTTP/1.1" 200 71001
+INFO "GET /static/js/jquery-1.12.4.min.js HTTP/1.1" 200 97168
+INFO "GET /user/verifycode/ HTTP/1.1" 200 1377
+INFO "GET /static/images/bg.jpg HTTP/1.1" 200 39319
+INFO "GET /static/images/login_banner.png HTTP/1.1" 200 17578
+INFO "GET /static/images/icons02.png HTTP/1.1" 200 2071
+WARNING Not Found: /favicon.ico
+WARNING Not Found: /favicon.ico
+WARNING "GET /favicon.ico HTTP/1.1" 404 3727
+INFO "GET /user/login/ HTTP/1.1" 200 3994
+INFO "GET /static/css/reset.css HTTP/1.1" 200 664
+INFO "GET /static/css/main.css HTTP/1.1" 200 23202
+INFO "GET /static/js/slide.js HTTP/1.1" 200 2473
+INFO "GET /static/images/logo.png HTTP/1.1" 200 5392
+INFO "GET /static/js/jquery-ui.min.js HTTP/1.1" 200 71001
+INFO "GET /static/js/jquery-1.12.4.min.js HTTP/1.1" 200 97168
+INFO "GET /user/verifycode/ HTTP/1.1" 200 1343
+INFO "GET /static/images/icons02.png HTTP/1.1" 200 2071
+INFO "GET /static/images/login_banner.png HTTP/1.1" 200 17578
+INFO "GET /static/images/bg.jpg HTTP/1.1" 200 39319
+WARNING Not Found: /favicon.ico
+WARNING Not Found: /favicon.ico
+WARNING "GET /favicon.ico HTTP/1.1" 404 3727
+INFO "GET /user/login/ HTTP/1.1" 200 3995
+INFO "GET /static/css/reset.css HTTP/1.1" 200 664
+INFO "GET /static/css/main.css HTTP/1.1" 200 23202
+INFO "GET /static/js/slide.js HTTP/1.1" 200 2473
+INFO "GET /static/images/logo.png HTTP/1.1" 200 5392
+INFO "GET /static/js/jquery-1.12.4.min.js HTTP/1.1" 200 97168
+INFO "GET /static/js/jquery-ui.min.js HTTP/1.1" 200 71001
+INFO "GET /user/verifycode/ HTTP/1.1" 200 1422
+INFO "GET /static/images/bg.jpg HTTP/1.1" 200 39319
+INFO "GET /static/images/login_banner.png HTTP/1.1" 200 17578
+INFO "GET /static/images/icons02.png HTTP/1.1" 200 2071
+WARNING Not Found: /favicon.ico
+WARNING Not Found: /favicon.ico
+WARNING "GET /favicon.ico HTTP/1.1" 404 3727
+INFO "GET /user/login/ HTTP/1.1" 200 3995
+INFO "GET /static/css/reset.css HTTP/1.1" 200 664
+INFO "GET /static/css/main.css HTTP/1.1" 200 23202
+INFO "GET /static/js/slide.js HTTP/1.1" 200 2473
+INFO "GET /static/images/logo.png HTTP/1.1" 200 5392
+INFO "GET /static/js/jquery-ui.min.js HTTP/1.1" 200 71001
+INFO "GET /static/js/jquery-1.12.4.min.js HTTP/1.1" 200 97168
+INFO "GET /user/verifycode/ HTTP/1.1" 200 1364
+INFO "GET /static/images/bg.jpg HTTP/1.1" 200 39319
+INFO "GET /static/images/login_banner.png HTTP/1.1" 200 17578
+INFO "GET /static/images/icons02.png HTTP/1.1" 200 2071
+WARNING Not Found: /favicon.ico
+WARNING Not Found: /favicon.ico
+WARNING "GET /favicon.ico HTTP/1.1" 404 3727
+INFO "GET /user/login/ HTTP/1.1" 200 3995
+INFO "GET /static/css/reset.css HTTP/1.1" 200 664
+INFO "GET /static/css/main.css HTTP/1.1" 200 23202
+INFO "GET /static/js/slide.js HTTP/1.1" 200 2473
+INFO "GET /static/images/logo.png HTTP/1.1" 200 5392
+INFO "GET /static/js/jquery-ui.min.js HTTP/1.1" 200 71001
+INFO "GET /static/js/jquery-1.12.4.min.js HTTP/1.1" 200 97168
+INFO "GET /user/verifycode/ HTTP/1.1" 200 1591
+INFO "GET /static/images/bg.jpg HTTP/1.1" 200 39319
+INFO "GET /static/images/login_banner.png HTTP/1.1" 200 17578
+INFO "GET /static/images/icons02.png HTTP/1.1" 200 2071
+WARNING Not Found: /favicon.ico
+WARNING Not Found: /favicon.ico
+WARNING "GET /favicon.ico HTTP/1.1" 404 3727
+INFO "GET /user/login/ HTTP/1.1" 200 4034
+INFO "GET /static/css/reset.css HTTP/1.1" 200 664
+INFO "GET /static/css/main.css HTTP/1.1" 200 23202
+INFO "GET /static/js/jquery-1.12.4.min.js HTTP/1.1" 200 97168
+INFO "GET /static/images/logo.png HTTP/1.1" 200 5392
+INFO "GET /static/js/slide.js HTTP/1.1" 200 2473
+INFO "GET /user/verifycode/ HTTP/1.1" 200 1543
+INFO "GET /static/js/jquery-ui.min.js HTTP/1.1" 200 71001
+INFO "GET /static/images/bg.jpg HTTP/1.1" 200 39319
+INFO "GET /static/images/login_banner.png HTTP/1.1" 200 17578
+INFO "GET /static/images/icons02.png HTTP/1.1" 200 2071
+WARNING Not Found: /favicon.ico
+WARNING Not Found: /favicon.ico
+WARNING "GET /favicon.ico HTTP/1.1" 404 3727
+INFO "GET /user/login/ HTTP/1.1" 200 4034
+INFO "GET /static/css/reset.css HTTP/1.1" 200 664
+INFO "GET /static/js/slide.js HTTP/1.1" 200 2473
+INFO "GET /static/css/main.css HTTP/1.1" 200 23202
+INFO "GET /static/js/jquery-1.12.4.min.js HTTP/1.1" 200 97168
+INFO "GET /static/images/logo.png HTTP/1.1" 200 5392
+INFO "GET /static/js/jquery-ui.min.js HTTP/1.1" 200 71001
+INFO "GET /user/verifycode/ HTTP/1.1" 200 1429
+INFO "GET /static/images/bg.jpg HTTP/1.1" 200 39319
+INFO "GET /static/images/login_banner.png HTTP/1.1" 200 17578
+INFO "GET /static/images/icons02.png HTTP/1.1" 200 2071
+WARNING Not Found: /favicon.ico
+WARNING Not Found: /favicon.ico
+WARNING "GET /favicon.ico HTTP/1.1" 404 3727
+INFO b''
+INFO b''
+INFO "GET / HTTP/1.1" 200 5958
+INFO "GET /static/css/reset.css HTTP/1.1" 200 664
+INFO "GET /static/css/main.css HTTP/1.1" 200 23202
+INFO "GET /static/js/slide.js HTTP/1.1" 200 2473
+INFO "GET /static/js/jquery-ui.min.js HTTP/1.1" 200 71001
+INFO "GET /static/js/jquery-1.12.4.min.js HTTP/1.1" 200 97168
+INFO "GET /static/images/logo.png HTTP/1.1" 200 5392
+INFO "GET /static/images/slide.jpg HTTP/1.1" 200 71151
+WARNING Not Found: /media/typelogo/2.jpg
+WARNING Not Found: /media/typelogo/2.jpg
+WARNING "GET /media/typelogo/2.jpg HTTP/1.1" 404 1799
+INFO "GET /static/images/adv01.jpg HTTP/1.1" 200 13501
+INFO "GET /static/images/adv02.jpg HTTP/1.1" 200 12157
+INFO "GET /static/images/slide04.jpg HTTP/1.1" 200 163732
+WARNING Not Found: /media/
+WARNING Not Found: /media/
+WARNING "GET /media/ HTTP/1.1" 404 1722
+WARNING Not Found: /media/typelogo/40.png
+WARNING Not Found: /media/typelogo/40.png
+INFO "GET /static/images/slide02.jpg HTTP/1.1" 200 207555
+WARNING "GET /media/typelogo/40.png HTTP/1.1" 404 1802
+INFO "GET /static/images/bg.jpg HTTP/1.1" 200 39319
+INFO "GET /static/images/icons.png HTTP/1.1" 200 5931
+INFO "GET /static/images/slide03.jpg HTTP/1.1" 200 437143
+INFO "GET /cart/count/ HTTP/1.1" 302 0
+INFO "GET /user/login/ HTTP/1.1" 200 4034
+WARNING Not Found: /favicon.ico
+WARNING Not Found: /favicon.ico
+WARNING "GET /favicon.ico HTTP/1.1" 404 3727
+INFO b''
+INFO b''
+INFO "GET / HTTP/1.1" 200 5958
+WARNING Not Found: /media/typelogo/2.jpg
+WARNING Not Found: /media/typelogo/2.jpg
+WARNING Not Found: /media/
+WARNING Not Found: /media/
+WARNING "GET /media/ HTTP/1.1" 404 1722
+WARNING "GET /media/typelogo/2.jpg HTTP/1.1" 404 1799
+WARNING Not Found: /media/typelogo/40.png
+WARNING Not Found: /media/typelogo/40.png
+WARNING "GET /media/typelogo/40.png HTTP/1.1" 404 1802
+INFO "GET /cart/count/ HTTP/1.1" 302 0
+INFO "GET /user/login/ HTTP/1.1" 200 4034
+INFO "GET /products/1/ HTTP/1.1" 200 7359
+WARNING Not Found: /media/
+WARNING Not Found: /media/
+WARNING "GET /media/ HTTP/1.1" 404 1722
+INFO "GET /cart/count/ HTTP/1.1" 302 0
+INFO "GET /user/login/ HTTP/1.1" 200 4034
+INFO "GET /user/login/ HTTP/1.1" 200 4034
+INFO "GET /user/verifycode/ HTTP/1.1" 200 1472
+INFO "GET /static/images/icons02.png HTTP/1.1" 200 2071
+INFO "GET /static/images/login_banner.png HTTP/1.1" 200 17578
+INFO "POST /user/login_check/ HTTP/1.1" 200 27
+INFO b''
+INFO b''
+INFO "GET / HTTP/1.1" 200 5944
+WARNING Not Found: /media/typelogo/2.jpg
+WARNING Not Found: /media/
+WARNING Not Found: /media/typelogo/2.jpg
+WARNING Not Found: /media/
+WARNING Not Found: /media/typelogo/40.png
+WARNING "GET /media/typelogo/2.jpg HTTP/1.1" 404 1799
+INFO "GET /cart/count/ HTTP/1.1" 200 10
+WARNING Not Found: /media/typelogo/40.png
+WARNING "GET /media/ HTTP/1.1" 404 1722
+WARNING "GET /media/typelogo/40.png HTTP/1.1" 404 1802
+INFO "GET /products/1/ HTTP/1.1" 200 7345
+WARNING Not Found: /media/
+WARNING Not Found: /media/
+WARNING "GET /media/ HTTP/1.1" 404 1722
+INFO "GET /cart/count/ HTTP/1.1" 200 10
+INFO "POST /cart/add/ HTTP/1.1" 200 10
+INFO "GET /cart/ HTTP/1.1" 200 9914
+WARNING Not Found: /media/
+WARNING Not Found: /media/
+WARNING "GET /media/ HTTP/1.1" 404 1722
+INFO "GET /cart/count/ HTTP/1.1" 200 10
+INFO "GET /cart/count/ HTTP/1.1" 200 10
+INFO "POST /order/place/ HTTP/1.1" 200 6036
+WARNING Not Found: /media/
+WARNING Not Found: /media/
+WARNING "GET /media/ HTTP/1.1" 404 1722
+INFO "GET /static/images/pay_icons.png HTTP/1.1" 200 11917
+INFO "GET /cart/count/ HTTP/1.1" 200 10
+INFO "POST /order/place/ HTTP/1.1" 200 6030
+INFO "GET /static/css/main.css HTTP/1.1" 200 23280
+INFO "GET /static/css/reset.css HTTP/1.1" 200 664
+INFO "GET /static/js/slide.js HTTP/1.1" 200 2473
+INFO "GET /static/js/jquery-ui.min.js HTTP/1.1" 200 71001
+INFO "GET /static/js/jquery-1.12.4.min.js HTTP/1.1" 200 97168
+WARNING Not Found: /media/
+WARNING Not Found: /media/
+WARNING "GET /media/ HTTP/1.1" 404 1722
+INFO "GET /static/images/logo.png HTTP/1.1" 200 5392
+INFO "GET /static/images/icons.png HTTP/1.1" 200 5931
+INFO "GET /static/images/bg.jpg HTTP/1.1" 200 39319
+INFO "GET /static/images/pay_icons.png HTTP/1.1" 200 11917
+INFO "GET /static/images/paypal.jpg HTTP/1.1" 200 3694
+INFO "GET /cart/count/ HTTP/1.1" 200 10
+WARNING Not Found: /favicon.ico
+WARNING Not Found: /favicon.ico
+WARNING "GET /favicon.ico HTTP/1.1" 404 3727
+INFO "POST /order/place/ HTTP/1.1" 200 6030
+INFO "GET /static/css/reset.css HTTP/1.1" 200 664
+INFO "GET /static/css/main.css HTTP/1.1" 200 23302
+INFO "GET /static/js/slide.js HTTP/1.1" 200 2473
+INFO "GET /static/js/jquery-ui.min.js HTTP/1.1" 200 71001
+INFO "GET /static/js/jquery-1.12.4.min.js HTTP/1.1" 200 97168
+WARNING Not Found: /media/
+WARNING Not Found: /media/
+WARNING "GET /media/ HTTP/1.1" 404 1722
+INFO "GET /static/images/logo.png HTTP/1.1" 200 5392
+INFO "GET /static/images/icons.png HTTP/1.1" 200 5931
+INFO "GET /cart/count/ HTTP/1.1" 200 10
+INFO "GET /static/images/bg.jpg HTTP/1.1" 200 39319
+INFO "GET /static/images/paypal.jpg HTTP/1.1" 200 3694
+INFO "GET /static/images/pay_icons.png HTTP/1.1" 200 11917
+WARNING Not Found: /favicon.ico
+WARNING Not Found: /favicon.ico
+WARNING "GET /favicon.ico HTTP/1.1" 404 3727
+INFO "POST /order/place/ HTTP/1.1" 200 6030
+INFO "GET /static/css/reset.css HTTP/1.1" 200 664
+INFO "GET /static/css/main.css HTTP/1.1" 200 23302
+INFO "GET /static/js/slide.js HTTP/1.1" 200 2473
+INFO "GET /static/js/jquery-1.12.4.min.js HTTP/1.1" 200 97168
+INFO "GET /static/js/jquery-ui.min.js HTTP/1.1" 200 71001
+WARNING Not Found: /media/
+WARNING Not Found: /media/
+WARNING "GET /media/ HTTP/1.1" 404 1722
+INFO "GET /static/images/logo.png HTTP/1.1" 200 5392
+INFO "GET /cart/count/ HTTP/1.1" 200 10
+INFO "GET /static/images/icons.png HTTP/1.1" 200 5931
+INFO "GET /static/images/bg.jpg HTTP/1.1" 200 39319
+INFO "GET /static/images/paypal.jpg HTTP/1.1" 200 1484
+INFO "GET /static/images/pay_icons.png HTTP/1.1" 200 11917
+WARNING Not Found: /favicon.ico
+WARNING Not Found: /favicon.ico
+WARNING "GET /favicon.ico HTTP/1.1" 404 3727
+INFO "POST /order/place/ HTTP/1.1" 200 6030
+INFO "GET /static/css/reset.css HTTP/1.1" 200 664
+INFO "GET /static/css/main.css HTTP/1.1" 200 23302
+INFO "GET /static/js/slide.js HTTP/1.1" 200 2473
+INFO "GET /static/js/jquery-ui.min.js HTTP/1.1" 200 71001
+INFO "GET /static/js/jquery-1.12.4.min.js HTTP/1.1" 200 97168
+WARNING Not Found: /media/
+WARNING Not Found: /media/
+WARNING "GET /media/ HTTP/1.1" 404 1722
+INFO "GET /static/images/logo.png HTTP/1.1" 200 5392
+INFO "GET /static/images/icons.png HTTP/1.1" 200 5931
+INFO "GET /static/images/pay_icons.png HTTP/1.1" 200 11917
+INFO "GET /cart/count/ HTTP/1.1" 200 10
+INFO "GET /static/images/bg.jpg HTTP/1.1" 200 39319
+INFO "GET /static/images/paypal.jpg HTTP/1.1" 200 2287
+WARNING Not Found: /favicon.ico
+WARNING Not Found: /favicon.ico
+WARNING "GET /favicon.ico HTTP/1.1" 404 3727
+INFO "POST /order/place/ HTTP/1.1" 200 6030
+INFO "GET /static/css/reset.css HTTP/1.1" 200 664
+INFO "GET /static/css/main.css HTTP/1.1" 200 23302
+INFO "GET /static/js/slide.js HTTP/1.1" 200 2473
+INFO "GET /static/js/jquery-1.12.4.min.js HTTP/1.1" 200 97168
+INFO "GET /static/js/jquery-ui.min.js HTTP/1.1" 200 71001
+INFO "GET /static/images/logo.png HTTP/1.1" 200 5392
+WARNING Not Found: /media/
+WARNING Not Found: /media/
+WARNING "GET /media/ HTTP/1.1" 404 1722
+INFO "GET /cart/count/ HTTP/1.1" 200 10
+INFO "GET /static/images/icons.png HTTP/1.1" 200 5931
+INFO "GET /static/images/bg.jpg HTTP/1.1" 200 39319
+INFO "GET /static/images/pay_icons.png HTTP/1.1" 200 11917
+INFO "GET /static/images/paypal.jpg HTTP/1.1" 200 3067
+WARNING Not Found: /favicon.ico
+WARNING Not Found: /favicon.ico
+WARNING "GET /favicon.ico HTTP/1.1" 404 3727
+INFO "POST /order/place/ HTTP/1.1" 200 6030
+INFO "GET /static/css/reset.css HTTP/1.1" 200 664
+INFO "GET /static/css/main.css HTTP/1.1" 200 23302
+INFO "GET /static/js/slide.js HTTP/1.1" 200 2473
+INFO "GET /static/js/jquery-ui.min.js HTTP/1.1" 200 71001
+INFO "GET /static/js/jquery-1.12.4.min.js HTTP/1.1" 200 97168
+INFO "GET /static/images/logo.png HTTP/1.1" 200 5392
+WARNING Not Found: /media/
+WARNING Not Found: /media/
+WARNING "GET /media/ HTTP/1.1" 404 1722
+INFO "GET /static/images/icons.png HTTP/1.1" 200 5931
+INFO "GET /cart/count/ HTTP/1.1" 200 10
+INFO "GET /static/images/bg.jpg HTTP/1.1" 200 39319
+INFO "GET /static/images/pay_icons.png HTTP/1.1" 200 11917
+INFO "GET /static/images/paypal.jpg HTTP/1.1" 200 2979
+WARNING Not Found: /favicon.ico
+WARNING Not Found: /favicon.ico
+WARNING "GET /favicon.ico HTTP/1.1" 404 3727
+INFO "POST /order/commit/ HTTP/1.1" 200 10
+INFO "GET /user/order/ HTTP/1.1" 200 7302
+INFO "GET /static/css/main.css HTTP/1.1" 304 0
+WARNING Not Found: /media/
+WARNING Not Found: /media/
+WARNING "GET /media/ HTTP/1.1" 404 1722
+INFO "GET /static/images/left_bg.jpg HTTP/1.1" 200 1367
+INFO "GET /cart/count/ HTTP/1.1" 200 10
+INFO "GET /user/order/ HTTP/1.1" 200 7298
+INFO "GET /static/css/main.css HTTP/1.1" 304 0
+WARNING Not Found: /media/
+WARNING Not Found: /media/
+WARNING "GET /media/ HTTP/1.1" 404 1722
+INFO "GET /cart/count/ HTTP/1.1" 200 10
+INFO "GET /user/order/ HTTP/1.1" 200 7180
+INFO "GET /static/css/reset.css HTTP/1.1" 200 664
+INFO "GET /static/js/jquery-ui.min.js HTTP/1.1" 200 71001
+INFO "GET /static/js/jquery-1.12.4.min.js HTTP/1.1" 200 97168
+INFO "GET /static/css/main.css HTTP/1.1" 200 23302
+INFO "GET /static/js/slide.js HTTP/1.1" 200 2473
+INFO "GET /static/images/logo.png HTTP/1.1" 200 5392
+WARNING Not Found: /media/
+WARNING Not Found: /media/
+WARNING "GET /media/ HTTP/1.1" 404 1722
+INFO "GET /static/images/bg.jpg HTTP/1.1" 200 39319
+INFO "GET /static/images/icons.png HTTP/1.1" 200 5931
+INFO "GET /static/images/left_bg.jpg HTTP/1.1" 200 1367
+WARNING Not Found: /favicon.ico
+WARNING Not Found: /favicon.ico
+INFO "GET /cart/count/ HTTP/1.1" 200 10
+WARNING "GET /favicon.ico HTTP/1.1" 404 3727
