@@ -57,7 +57,7 @@ function buildTable($el, cells, rows) {
   for (i = 0; i < cells; i++) {
     columns.push({
       field: '字段' + i,
-      title: '单元' + i
+      title: '单$' + i
     });
   }
   for (i = 0; i < rows; i++) {
