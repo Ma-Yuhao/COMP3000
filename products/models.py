@@ -43,6 +43,10 @@ class Products(BaseModel):
     sales = models.IntegerField(default=0)
     detail = HTMLField()
     image = models.ImageField(upload_to='products')
+    detail_image1 = models.ImageField(upload_to='products',null=True,blank=True)
+    detail_image2 = models.ImageField(upload_to='products',null=True,blank=True)
+    detail_image3 = models.ImageField(upload_to='products',null=True,blank=True)
+    detail_image4 = models.ImageField(upload_to='products',null=True,blank=True)
     status = models.SmallIntegerField(default=ONLINE, choices=status_choices)
     objects = ProductsManager()
 
