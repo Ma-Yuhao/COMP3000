@@ -59,10 +59,11 @@
                 <div class="product_con clearfix">
                     <div class="product_banner fl"><img src="/media/{{ pt.image }}"></div>
                             <ul class="product_list fl">
-
+                        {% for products in index_products %}
                                 {% for product in products %}
                                         {% if product.status == 1 %}
                                             {% if product.type_id_id == pt.type_id%}
+
                                                 <li>
                                                     <h4 style="color: #1E0FBE"><a href="{% url 'products:detail' products_id=product.id   %}">{{ product.name}}</a></h4>
                                                     <a href="{% url 'products:detail' products_id=product.id  %}"><img src="/media/{{ product.image }}"></a>
@@ -71,6 +72,7 @@
                                             {% endif %}
                                         {% endif %}
                                 {% endfor %}
+                        {% endfor %}
 
                             </ul>
                      </div>
